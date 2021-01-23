@@ -1,0 +1,12 @@
+
+;
+clear
+
+;
+exti
+exit
+>
+exit;
+exit
+fafaljgka
+$ cat license.txt
